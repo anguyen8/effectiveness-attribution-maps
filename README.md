@@ -2,7 +2,7 @@
 
 Official Implementation for the paper [The effectiveness of feature attribution methods and its correlation with automatic evaluation scores (NeurIPS2021)](https://arxiv.org/abs/2105.14944) by [Giang Nguyen](https://giangnguyen2412.github.io/), [Daeyoung Kim](https://www.resl.kaist.ac.kr/members) and [Anh Nguyen](https://anhnguyen.me/).
 
-NeurIPS: Video presentation of the paper are [here](https://youtu.be/jpbnX6M4Rxc) | Reviews [(6,6,7,7)](https://openreview.net/forum?id=OKPS9YdZ8Va)
+**NeurIPS**: Video presentation of the paper are [here](https://youtu.be/jpbnX6M4Rxc) | Reviews [(6,6,7,7)](https://openreview.net/forum?id=OKPS9YdZ8Va)
 
 # Dataset
 * Images used in Instructions, Training phase and Validation phase of all tested method can be found in `Stimuli_Natural` and`Stimuli_Dog` in [Human_experiments.tar.gz](https://drive.google.com/file/d/1-MWWy0i39vNbz_-vo_Gor_dwt5vGYDaT/view?usp=sharing).
