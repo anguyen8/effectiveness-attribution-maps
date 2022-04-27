@@ -14,6 +14,8 @@ Official Implementation for the paper [The effectiveness of feature attribution 
 ## User interface
 - This [video](https://youtu.be/4W1fYdx1-mU) walks you through one entire Gorilla.sc experiment run on a single user. We hope sharing all screens we carefully designed for this study could help future research.
 
+**If you wanna try out the User Interface from your device OR get the materials to replicate the exerpiment pipeline, drop me an email at nguyengiangbkhn@gmail.com so that I could grant you the access**.
+
 ## Citation
 If you find our work useful in your research, please consider citing:
 
