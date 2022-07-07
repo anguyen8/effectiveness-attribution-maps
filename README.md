@@ -1,4 +1,11 @@
-# The effectiveness of feature attribution methods and its correlation with automatic evaluation scores
+<div align="center">    
+ 
+# The effectiveness of feature attribution methods and its correlation with automatic evaluation scores     
+
+[![Paper](http://img.shields.io/badge/paper-arxiv.2105.14944-B31B1B.svg)](https://arxiv.org/abs/2105.14944)
+[![Conference](http://img.shields.io/badge/NeurIPS-2021-4b44ce.svg)](https://proceedings.neurips.cc/paper/2021/hash/de043a5e421240eb846da8effe472ff1-Abstract.html)
+[![Conference](http://img.shields.io/badge/WHDM@NeurIPS-2021-4b44ce.svg)](https://sites.google.com/view/whmd2021/accepted-papers?authuser=0)  
+</div>
 
 Official Implementation for the paper [The effectiveness of feature attribution methods and its correlation with automatic evaluation scores (NeurIPS2021)](https://arxiv.org/abs/2105.14944) by [Giang Nguyen](https://giangnguyen2412.github.io/), [Daeyoung Kim](https://www.resl.kaist.ac.kr/members) and [Anh Nguyen](https://anhnguyen.me/).
 
